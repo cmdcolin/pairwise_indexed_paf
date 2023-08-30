@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@types/node": "^20.5.7",
+    "prettier": "^3.0.3",
+    "typescript": "^5.2.2"
+  }
+}
